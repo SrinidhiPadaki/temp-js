@@ -1,0 +1,3 @@
+% node - To start node in the command prompt
+ctrl+c - to close the repl
+Global variable- 
